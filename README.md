@@ -43,7 +43,8 @@ Note that some stores in the dataset were temporarily closed for refurbishment.
 - Stores should sell less during school holidays.
 
 ## Observations
-<img width="598" alt="Screenshot 2025-02-01 at 10 14 16 PM" src="https://github.com/user-attachments/assets/df0e3c67-e9e9-43ad-9ad5-2b73b9cf2fc4" />
+<img width="557" alt="Screenshot 2025-02-01 at 10 43 30 PM" src="https://github.com/user-attachments/assets/3f6fcd41-5f60-4b10-9c72-db8ee1d0ef30" />
+
 
 ## Results
 <img width="263" alt="Screenshot 2025-02-01 at 10 34 53 PM" src="https://github.com/user-attachments/assets/b642c747-c9f7-453b-b5f7-100a0c86cd0f" />
