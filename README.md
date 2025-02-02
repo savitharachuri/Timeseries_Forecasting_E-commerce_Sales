@@ -29,7 +29,17 @@ Note that some stores in the dataset were temporarily closed for refurbishment.
                   February, May, August, November of any given year for that store
 ## Assumptions
 ### Based on Promotion, Competition and Holiday information given, right of the bat, these are the assumptions that one can come up with
--
--
--
+- Stores with a larger product assortment should sell more.
+- Stores with closer competitors should sell less.
+- Stores with competitors that have been around for longer should sell more.
+- Stores with promotions running for longer should sell more.
+- Stores with more days of promotions should sell more.
+- Stores with more consecutive promotions should sell more.
+- Stores that open during the Christmas holidays should sell more.
+- Stores should sell less on weekends.
+- Stores should sell more over the years.
+- Stores should sell more in the second half of the year.
+- Stores should sell more after the 10th of each month.
+- Stores should sell less during school holidays.
+
 
