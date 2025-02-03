@@ -42,7 +42,10 @@ Note that some stores in the dataset were temporarily closed for refurbishment.
 - Stores should sell more after the 10th of each month.
 - Stores should sell less during school holidays.
 
-## Observations
+## Observations and Methodology
+- The assumptions or in other words hypothesis are tested with the data presented and determined if they are true or false
+- Then manually select features, based on the above observation that are useful for our prediction.
+- Compare the performance of by fitting the data in various ML models.
 <img width="557" alt="Screenshot 2025-02-01 at 10 43 30 PM" src="https://github.com/user-attachments/assets/3f6fcd41-5f60-4b10-9c72-db8ee1d0ef30" />
 
 
